@@ -1,0 +1,13 @@
+# Исходные данные не хранятся в репозитории (848 МБ > лимита GitHub 100 МБ)
+it_vacancies_2024.csv
+hh.zip
+
+# Результаты, логи и графики: основные результаты лежат в бакете hh-lake,
+# выводы команд, таблицы и графики — в отчёте report/*.pdf
+results/
+report/figures/
+report/screens/
+
+__pycache__/
+*.pyc
+.venv/
